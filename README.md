@@ -18,9 +18,8 @@
 
 - :school: I am an economist from UNALM, specialized in Data.
 - :technologist: **Currently working on** `Data Governance` **&** `Data Analyst`
-- :boom: You can visit [MY LINKEDIN](https://www.linkedin.com/in/tuliofernandopinillos-dataanalyst/) for some frontend knowledge
+- :boom: You can visit [MY LINKEDIN](https://www.linkedin.com/in/tuliofernandopinillos-dataanalyst/) to some a little more about my profile.
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=TulioFPinillos&amp;color=EA4335&amp;style=flat-square)](mailto:fernando20101240@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
 
 <br>
 
