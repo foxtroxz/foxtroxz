@@ -1,8 +1,3 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-
 <div id="user-content-toc">
   <ul align="left">
     <summary><h1 style="display: inline-block">Hi there👋, I'm Tulio F. Pinillos</h1></summary>
@@ -14,18 +9,17 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 - :school: I am an economist from UNALM, specialized in Data.
-- :technologist: **Currently working on** `Data Governance` **&** `Data Analyst`
-- :boom: You can visit [MY LINKEDIN](https://www.linkedin.com/in/tuliofernandopinillos-dataanalyst/) to some a little more about my profile.
+- :technologist: Currently work as `Data Governance` **&** `Data Analyst`
+- :boom: Check [my LinkedIn](https://www.linkedin.com/in/tuliofernandopinillos-dataanalyst/) for more about my profile.
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=TulioFPinillos&amp;color=EA4335&amp;style=flat-square)](mailto:fernando20101240@gmail.com)
 
 <br>
 
-
 ### Hi there 👋
-Bachiller de Economía con experiencia como Data Analyst y Data Governance. Con amplia capacidad de análisis, capaz de resolver problemas de manera creativa y con gran habilidad para limpiar, transformar y analizar datos. Y en proceso de convertirme en Data Engineering.
+Bachelor of Economics with experience as a Data Analyst and Data Governance. With extensive analytical skills, able to solve problems creatively and with great ability to clean, transform and analyze data. And in the process of becoming Data Engineering.
 
 ### Workshops
 Take a look at the talks and workshops on Power BI and Python that I have given:
